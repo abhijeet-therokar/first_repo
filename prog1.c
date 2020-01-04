@@ -1,3 +1,4 @@
+/* This is the smaple code for git prac */
 #include <stdio.h>
 
 int main(void)
