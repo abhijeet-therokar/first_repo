@@ -7,3 +7,4 @@ int main(void)
 	printf("Value of var = %d\n", var);
 	return 0;
 }
+/* This line is added after cloning the git repo in local machine */
